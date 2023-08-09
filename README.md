@@ -1,2 +1,2 @@
 # Exercicio
- Exercicio usando html e css
+ Primeiro exercicio usando html e css
