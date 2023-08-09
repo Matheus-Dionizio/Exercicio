@@ -70,10 +70,13 @@ nav > a:hover{
 main{
     background-color: var(--cor2);
 }
-.pequena{
-    margin: auto;
+main img{
+    width: 100%;
+}
+main img.pequena{
     max-width: 350px;
     display: block;
+    margin: auto;
 }
 article{
     padding: 0px 10px 0px 10px;
